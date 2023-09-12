@@ -1,0 +1,15 @@
+[
+  {
+    "role": "Software Developer Trainee",
+    "organization": "Brain Station 23",
+    "startDate": "May, 2023",
+    "endDate": "September, 2023",
+    "experiences": [
+      "Worked on JavaScript projects",
+      "Created React projects with multiple APIs",
+      "Got handon experience with Angular",
+      "Got introduced to NextJS"
+    ],
+    "imageSrc": "history/bs.png"
+  }
+]
