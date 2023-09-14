@@ -2,25 +2,33 @@
   {
     "title": "MoviePedia",
     "imageSrc": "projects/project.png",
-    "description": "",
+    "description": "Moviepedia contains movie searches, pagination, and integrated videos. It features functions to add movies to favorites, rate them, and manage watchlists, all without requiring user authentication.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "source": "",
+    "source": "https://github.com/Suraiya-Hasan/Movie-app",
     "demo": ""
   },
   {
-    "title": "MoviePedia",
+    "title": "Worldwise",
     "imageSrc": "projects/project.png",
-    "description": "",
-    "skills": ["HTML", "CSS", "JavaScript"],
-    "source": "",
+    "description": "This is a web app where user can keep track of cities they have visited throughout the world. THe app uses React leaflet and other such 3rd party libraries to make it functional.",
+    "skills": ["React+Vite", "CSS", "JavaScript"],
+    "source": "https://github.com/Suraiya-Hasan/Worldwise-Vite",
     "demo": ""
   },
   {
-    "title": "MoviePedia",
+    "title": "usePopcorn",
     "imageSrc": "projects/project.png",
-    "description": "",
+    "description": "This is a web app where user can keep track of cities they have visited throughout the world. THe app uses React leaflet and other such 3rd party libraries to make it functional.",
+    "skills": ["React", "HTML", "CSS", "JavaScript"],
+    "source": "https://github.com/Suraiya-Hasan/Movie-app-react",
+    "demo": ""
+  },
+  {
+    "title": "forkify",
+    "imageSrc": "projects/project.png",
+    "description": "Recipe application with custom recipe upload option. Created with HTML, SCSS and JavaScript. Used 'Parcel' as the package bundler.",
     "skills": ["HTML", "CSS", "JavaScript"],
-    "source": "",
+    "source": "https://github.com/Suraiya-Hasan/forkify-Complete-JavaScript-Course-2022",
     "demo": ""
   }
 ]
